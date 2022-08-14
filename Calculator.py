@@ -104,5 +104,6 @@ if(c==2):
 else:
     pass
 
-
+import time
+time.sleep(20)
 
